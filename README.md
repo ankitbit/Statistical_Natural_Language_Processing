@@ -1,6 +1,6 @@
 # Statistical_Natural_Language_Processing
 
-* [Course website](https://nlp.stanford.edu/fsnlp/): This is the companion website for the following book. Chris Manning and Hinrich Schütze, Foundations of Statistical Natural Language Processing, MIT Press. Cambridge, MA: May 1999.
+* [Course website](https://nlp.stanford.edu/fsnlp/): This is the companion website for the following book. Chris Manning and Hinrich Schütze, Foundations of Statistical Natural Language Processing, MIT Press. Cambridge, MA: May 1999. [Natural Language Processing](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html): Lecture series by Christopher Manning
 * [Statistical Machine Translation](http://www.statmt.org/)
 
 ## References-
