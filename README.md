@@ -3,6 +3,9 @@
 * [Course website](https://nlp.stanford.edu/fsnlp/): This is the companion website for the following book. Chris Manning and Hinrich Schütze, Foundations of Statistical Natural Language Processing, MIT Press. Cambridge, MA: May 1999. [Natural Language Processing](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html): Lecture series by Christopher Manning
 * [Statistical Machine Translation](http://www.statmt.org/)
 
+## Tutorials
+- UCL tutorials on [Statistical Natural Language Processing](http://nbviewer.jupyter.org/github/uclmr/stat-nlp-book/blob/python/overview.ipynb)
+
 ## References-
 * [Ham or Spam ?](https://www.kaggle.com/jeandsantos/ham-or-spam-sms-text-classification-walkthrough): An interesting tutorial using the **Naive-Bayes** Classifier for text classification in categories of "Ham" or "Spam" based on dataset of text messages.
 * [Stylometry Analysis](http://programminghistorian.github.io/ph-submissions/lessons/published/basic-text-processing-in-r)
