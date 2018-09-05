@@ -7,6 +7,7 @@
 - UCL tutorials on [Statistical Natural Language Processing](http://nbviewer.jupyter.org/github/uclmr/stat-nlp-book/blob/python/overview.ipynb) and UCL Github Repository for [Statistical NLP Book](https://github.com/uclmr/stat-nlp-book)
 
 ## References-
+* [Foundations of Statistical Natural Lanugage Processing](https://nlp.stanford.edu/fsnlp/)- Stanford University
 * [Ham or Spam ?](https://www.kaggle.com/jeandsantos/ham-or-spam-sms-text-classification-walkthrough): An interesting tutorial using the **Naive-Bayes** Classifier for text classification in categories of "Ham" or "Spam" based on dataset of text messages.
 * [Stylometry Analysis](http://programminghistorian.github.io/ph-submissions/lessons/published/basic-text-processing-in-r)
 * [Peter Norvig: Director of research | Google](https://norvig.com/)
