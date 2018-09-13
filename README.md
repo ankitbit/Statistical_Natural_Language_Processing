@@ -4,6 +4,7 @@
 * [Statistical Machine Translation](http://www.statmt.org/)
 
 * [UPC-SNLP Course Webpage](http://www.cs.upc.edu/~horacio/snlp/MIRI-SNLP-Q1-2016.htm)
+* [Advanced Methods in Natural Language Processing](http://www.cs.tau.ac.il/~joberant/teaching/advanced_nlp_spring_2018/)
 
 ## Tutorials
 - UCL tutorials on [Statistical Natural Language Processing](http://nbviewer.jupyter.org/github/uclmr/stat-nlp-book/blob/python/overview.ipynb) and UCL Github Repository for [Statistical NLP Book](https://github.com/uclmr/stat-nlp-book)
