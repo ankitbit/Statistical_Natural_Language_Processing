@@ -8,6 +8,7 @@
 
 ## Tutorials
 - UCL tutorials on [Statistical Natural Language Processing](http://nbviewer.jupyter.org/github/uclmr/stat-nlp-book/blob/python/overview.ipynb) and UCL Github Repository for [Statistical NLP Book](https://github.com/uclmr/stat-nlp-book)
+- [](https://nbviewer.jupyter.org/github/uclmr/stat-nlp-book/blob/python/overview.ipynb)
 
 ## References-
 * [Foundations of Statistical Natural Lanugage Processing](https://nlp.stanford.edu/fsnlp/)- Stanford University
